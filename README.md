@@ -26,8 +26,8 @@ My goal is to improve the security and reliability of decentralized applications
 | Project Name | Date       | Contract Link                          | Notes       |
 |--------------|------------|----------------------------------------|-------------|
 | **Being** | 2024-12-09 | [View Contract](https://github.com/SaifAtom/being/blob/hi/contracts/Being.sol) | 7 Critical, 1 High, 2 Low |
-| **Widcoin**      | 2025-10-06 | [View Contract](https://github.com/SaifAtom/Presale/blob/main/contracts/RBTC.sol)   | 1 Critical, 1 Medium, 1 Low |
-| **PantherXchangeCrypto**| 2025-09-25 | [View Contract](https://sepolia.etherscan.io/address/0xeA2Fa80c7E2AD9265374dDF5ACcbEA134715BEe6#code) | 1 High, 3 Low |
+| **Widcoin**      | 2024-10-06 | [View Contract](https://github.com/SaifAtom/Presale/blob/main/contracts/RBTC.sol)   | 1 Critical, 1 Medium, 1 Low |
+| **PantherXchangeCrypto**| 2024-09-25 | [View Contract](https://sepolia.etherscan.io/address/0xeA2Fa80c7E2AD9265374dDF5ACcbEA134715BEe6#code) | 1 High, 3 Low |
 
 
 ---
